@@ -1,3 +1,6 @@
+.about-us{
+    height: 100vh;
+}
 .aboutus-items{
     margin-top: 40px;
     display: flex;
@@ -6,3 +9,4 @@
     flex-wrap: wrap;
     margin-top: 20px;
 }
+
